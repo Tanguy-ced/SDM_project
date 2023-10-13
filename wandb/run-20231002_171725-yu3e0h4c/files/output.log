@@ -1,0 +1,148 @@
+
+EPOCH 0
+
+  0%|          | 0/50 [00:02<?, ?it/s]
+EPOCH 0
+
+  0%|          | 0/50 [00:07<?, ?it/s]
+  0%|          | 0/50 [00:00<?, ?it/s]
+
+  0%|          | 0/50 [00:02<?, ?it/s]
+  0%|          | 0/50 [00:00<?, ?it/s]
+
+  0%|          | 0/50 [00:07<?, ?it/s]
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+OSError: [Errno 9] Bad file descriptor
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+OSError: [Errno 9] Bad file descriptor
+OSError: [Errno 9] Bad file descriptor
+OSError: [Errno 9] Bad file descriptor
+OSError: [Errno 9] Bad file descriptor
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+Exception ignored in: <function _ConnectionBase.__del__ at 0x166ebfd80>
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 132, in __del__
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor
+Traceback (most recent call last):
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/queues.py", line 239, in _feed
+    reader_close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 177, in close
+    self._close()
+  File "/Users/tanguycedoz/miniconda3/lib/python3.11/multiprocessing/connection.py", line 360, in _close
+    _close(self._handle)
+OSError: [Errno 9] Bad file descriptor

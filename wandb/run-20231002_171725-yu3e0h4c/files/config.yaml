@@ -1,0 +1,63 @@
+wandb_version: 1
+
+epochs:
+  desc: null
+  value: 10
+batch_size:
+  desc: null
+  value: 64
+lr:
+  desc: null
+  value: 0.001
+n_species:
+  desc: null
+  value: 96
+optimizer:
+  desc: null
+  value: SGD
+model:
+  desc: null
+  value: cnn_batchnorm_patchsize_20
+loss:
+  desc: null
+  value: BCEWithLogitsLoss
+env_patch_size:
+  desc: null
+  value: 10
+rgb_patch_size:
+  desc: null
+  value: 100
+train_data:
+  desc: null
+  value: PA
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.4
+    cli_version: 0.15.11
+    framework: torch
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1696259845.361198
+    t:
+      1:
+      - 1
+      - 5
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 53
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.11.4
+      5: 0.15.11
+      8:
+      - 1
+      - 4
+      - 5
+      13: darwin-arm64

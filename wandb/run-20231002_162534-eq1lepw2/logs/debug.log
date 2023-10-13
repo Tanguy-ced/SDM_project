@@ -1,0 +1,39 @@
+2023-10-02 16:25:34,113 INFO    MainThread:14953 [wandb_setup.py:_flush():76] Current SDK version is 0.15.11
+2023-10-02 16:25:34,113 INFO    MainThread:14953 [wandb_setup.py:_flush():76] Configure stats pid to 14953
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_setup.py:_flush():76] Loading settings from /Users/tanguycedoz/.config/wandb/settings
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_setup.py:_flush():76] Loading settings from /Users/tanguycedoz/Documents/Master/MA3/Semester_project/SDM_project/wandb/settings
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_init.py:_log_setup():528] Logging user logs to /Users/tanguycedoz/Documents/Master/MA3/Semester_project/SDM_project/wandb/run-20231002_162534-eq1lepw2/logs/debug.log
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_init.py:_log_setup():529] Logging internal logs to /Users/tanguycedoz/Documents/Master/MA3/Semester_project/SDM_project/wandb/run-20231002_162534-eq1lepw2/logs/debug-internal.log
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_init.py:init():568] calling init triggers
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_init.py:init():575] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'batch_size': 64, 'lr': 0.001, 'n_species': 64, 'optimizer': 'SGD', 'model': 'cnn_batchnorm_patchsize_20', 'loss': 'BCEWithLogitsLoss', 'env_patch_size': 10, 'rgb_patch_size': 100, 'train_data': 'PA'}
+2023-10-02 16:25:34,114 INFO    MainThread:14953 [wandb_init.py:init():593] re-initializing run, found existing run on stack: 4giqd176
+2023-10-02 16:25:34,119 INFO    MainThread:14953 [wandb_run.py:_finish():1934] finishing run semester_project_sdm/SDM_project/4giqd176
+2023-10-02 16:25:34,120 ERROR   MainThread:14953 [jupyter.py:save_history():437] Run pip install nbformat to save notebook history
+2023-10-02 16:25:34,120 INFO    MainThread:14953 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2023-10-02 16:25:34,120 INFO    MainThread:14953 [wandb_init.py:_jupyter_teardown():456] cleaning up jupyter logic
+2023-10-02 16:25:34,121 INFO    MainThread:14953 [wandb_run.py:_atexit_cleanup():2168] got exitcode: 0
+2023-10-02 16:25:34,121 INFO    MainThread:14953 [wandb_run.py:_restore():2151] restore
+2023-10-02 16:25:34,121 INFO    MainThread:14953 [wandb_run.py:_restore():2157] restore done
+2023-10-02 16:26:00,711 INFO    MainThread:14953 [wandb_run.py:_footer_history_summary_info():3554] rendering history
+2023-10-02 16:26:00,711 INFO    MainThread:14953 [wandb_run.py:_footer_history_summary_info():3586] rendering summary
+2023-10-02 16:26:00,745 INFO    MainThread:14953 [wandb_run.py:_footer_sync_info():3513] logging synced files
+2023-10-02 16:26:00,849 INFO    MainThread:14953 [wandb_init.py:init():618] starting backend
+2023-10-02 16:26:00,849 INFO    MainThread:14953 [wandb_init.py:init():622] setting up manager
+2023-10-02 16:26:00,852 INFO    MainThread:14953 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2023-10-02 16:26:00,853 INFO    MainThread:14953 [wandb_init.py:init():628] backend started and connected
+2023-10-02 16:26:00,879 INFO    MainThread:14953 [wandb_run.py:_label_probe_notebook():1276] probe notebook
+2023-10-02 16:26:00,879 INFO    MainThread:14953 [wandb_run.py:_label_probe_notebook():1286] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2023-10-02 16:26:00,879 INFO    MainThread:14953 [wandb_init.py:init():720] updated telemetry
+2023-10-02 16:26:00,929 INFO    MainThread:14953 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2023-10-02 16:26:02,432 INFO    MainThread:14953 [wandb_run.py:_on_init():2220] communicating current version
+2023-10-02 16:26:02,596 INFO    MainThread:14953 [wandb_run.py:_on_init():2229] got version response 
+2023-10-02 16:26:02,597 INFO    MainThread:14953 [wandb_init.py:init():804] starting run threads in backend
+2023-10-02 16:26:10,258 INFO    MainThread:14953 [wandb_run.py:_console_start():2199] atexit reg
+2023-10-02 16:26:10,259 INFO    MainThread:14953 [wandb_run.py:_redirect():2054] redirect: wrap_raw
+2023-10-02 16:26:10,259 INFO    MainThread:14953 [wandb_run.py:_redirect():2119] Wrapping output streams.
+2023-10-02 16:26:10,259 INFO    MainThread:14953 [wandb_run.py:_redirect():2144] Redirects installed.
+2023-10-02 16:26:10,260 INFO    MainThread:14953 [wandb_init.py:init():845] run started, returning control to user process

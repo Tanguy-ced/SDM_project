@@ -1,0 +1,47 @@
+
+  0%|          | 0/2 [00:00<?, ?it/s]
+
+  0%|          | 0/2 [00:05<?, ?it/s]
+Dataloaders: (<torch.utils.data.dataloader.DataLoader object at 0x155360510>, <torch.utils.data.dataloader.DataLoader object at 0x155363d10>)
+Length of train dataloader: 2 batches of 64
+Length of test dataloader: 1 batches of 64
+cpu
+8
+Training set: 100 sites, 96 sites
+5 first element of the train_dataset : /n       glcID        gbifID                 observer               datasetName  \
+0  2522017  1.882957e+09      Bjørn Petter Løfall   NOR Species Observation
+1   915820  3.704105e+09           Szokala,Daniel    Masaryk Univ Herbarium
+2  2204483  2.634620e+09          Mykyta Peregrym            iNaturalist RG
+3  1892353  2.894783e+09            Vejle Kommune  DEN Environmental Portal
+4  3377718  1.884870e+09  Bernt-Gunnar Østerkløft   NOR Species Observation
+         date  dayOfYear  year  year_ecodatacube_quarter        lon       lat  \
+0  2018-06-17        168  2018                       2.0  10.951540  59.25110
+1  2020-08-23        236  2020                       3.0  22.678360  43.39697
+2  2020-06-01        153  2020                       2.0  20.057780  47.91972
+3  2018-05-16        136  2018                       2.0   9.337563  55.75870
+4  2018-07-18        199  2018                       3.0  14.614180  67.38264
+   x_EPSG3035  y_EPSG3035  geoUncertaintyInM  speciesId  patchID  timeSerieID
+0   4375406.0   4017067.0               10.0       9343  5982155      2959445
+1   5345300.0   2341095.0               10.0       2165  6920543      3900275
+2   5070487.0   2807349.0                5.0       7722  6876987      3856654
+3   4279387.0   3628455.0                3.0       6461  5547194      2523020
+4   4520783.0   4924950.0               50.0       7287  6592021      3570234
+Validation set: 99 sites, 96 sites
+ number of element in the train dataset : 100
+first element of the train_dataset :
+       glcID        gbifID             observer              datasetName  \
+0  2522017  1.882957e+09  Bjørn Petter Løfall  NOR Species Observation
+         date  dayOfYear  year  year_ecodatacube_quarter       lon      lat  \
+0  2018-06-17        168  2018                       2.0  10.95154  59.2511
+   x_EPSG3035  y_EPSG3035  geoUncertaintyInM  speciesId  patchID  timeSerieID
+0   4375406.0   4017067.0               10.0       9343  5982155      2959445
+ number of element in the train dataset : 100
+ first element of the val_dataset :
+     Unnamed: 0    glcID  gbifID observer datasetName        date  dayOfYear  \
+0       74594  5688737     NaN      NaN      CBNMed  1587938400        118
+   year      lon      lat  x_EPSG3035  y_EPSG3035  geoUncertaintyInM  \
+0  2020  6.48976  43.1676   4034867.0   2235568.0               10.0
+   speciesId  patchID  timeSerieID
+0       1275   116777      3989658
+Dataloaders: (<torch.utils.data.dataloader.DataLoader object at 0x157eb67d0>, <torch.utils.data.dataloader.DataLoader object at 0x155360510>)
+Length of train dataloader: 2 batches of 64

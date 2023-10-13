@@ -1,0 +1,36 @@
+{
+    "os": "macOS-13.5.1-arm64-arm-64bit",
+    "python": "3.11.4",
+    "heartbeatAt": "2023-10-02T13:06:27.955572",
+    "startedAt": "2023-10-02T13:06:26.989069",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Tanguy-ced/SDM_project.git",
+        "commit": "ea9f0c757ab10ea7dbc42bb70ada56a57015a0f9"
+    },
+    "email": "tanguy.cedoz@epfl.ch",
+    "root": "/Users/tanguycedoz/Documents/Master/MA3/Semester_project/SDM_project",
+    "host": "tsf-436-wpa-6-176.epfl.ch",
+    "username": "tanguycedoz",
+    "executable": "/Users/tanguycedoz/miniconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 139.97840881347656
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}
