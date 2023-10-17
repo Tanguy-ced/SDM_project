@@ -271,6 +271,7 @@ class RGBNIR_env_Dataset(Dataset):
                     }
 
     def __getitem__(self, index):
+        print("getting the item")
         item = self.sites.iloc[index].to_dict()
         item_species = self.occurrences[
             (self.occurrences['patchID'] == item['patchID']) & (self.occurrences['dayOfYear'] == item['dayOfYear'])
